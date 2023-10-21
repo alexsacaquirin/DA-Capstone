@@ -1,6 +1,6 @@
-SELECT t_date,  t_close_last
-FROM tsla_stock
-WHERE t_date IN (
+SELECT p_date,  p_close_last
+FROM pfe_stock
+WHERE p_date IN (
 '2019-03-01',
 '2019-06-01',
 '2019-09-01',

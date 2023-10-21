@@ -1,6 +1,6 @@
-SELECT t_date,  t_close_last
-FROM tsla_stock
-WHERE t_date IN (
+SELECT uv_date,  uv_close_last
+FROM vix_stock
+WHERE uv_date IN (
 '2019-03-01',
 '2019-06-01',
 '2019-09-01',

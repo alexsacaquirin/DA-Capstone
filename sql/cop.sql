@@ -1,7 +1,6 @@
-SELECT t_date,  t_close_last
-FROM tsla_stock
-WHERE t_date IN (
-'2019-03-01',
+SELECT c_date, c_close_last
+FROM cop_stock
+WHERE c_date IN ('2019-03-01',
 '2019-06-01',
 '2019-09-01',
 '2019-12-01',
@@ -24,5 +23,4 @@ WHERE t_date IN (
 '2023-03-01',
 '2023-06-01',
 '2023-09-01',
-'2023-12-01'
-);
+'2023-12-01');
