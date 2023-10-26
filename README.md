@@ -9,9 +9,14 @@
 <p>The MVP for this project will include: -Power BI and a presentation - The target audience is people who are interest in finance. - Analysis will be performed using SQL and Execl</p>
 <h1>Data Sources</h1>
 <p> CPI - https://fred.stlouisfed.org/series/USACPALTT01CTGYM ,
+    
     Interest Rates - https://fred.stlouisfed.org/series/OBMMIFHA30YF ,
+    
     House Prices - https://fred.stlouisfed.org/series/MSPUS ,
+    
     Gas Prices - https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W,
+    
     Stocks - https://www.nasdaq.com/
+    
     Food - https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandwest_table.htm
 </p>
