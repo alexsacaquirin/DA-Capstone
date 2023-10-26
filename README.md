@@ -8,7 +8,8 @@
 <h1>Minimum Viable Product (MVP)</h1>
 <p>The MVP for this project will include: -Power BI and a presentation - The target audience is people who are interest in finance. - Analysis will be performed using SQL and Execl</p>
 <h1>Data Sources</h1>
-<p> CPI - https://fred.stlouisfed.org/series/USACPALTT01CTGYM ,
+<p>
+    CPI - https://fred.stlouisfed.org/series/USACPALTT01CTGYM ,
     
     Interest Rates - https://fred.stlouisfed.org/series/OBMMIFHA30YF ,
     
